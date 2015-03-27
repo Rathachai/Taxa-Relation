@@ -1,0 +1,11 @@
+DataID,DataSetID,OriDataID,SGroup,SGenus,SSpecies,SAuthor,SISName,SSName,SWamei,TGroup,TGenus,TSpecies,TAuthor,TISName,TSName,TWamei,Evid,Clue,Relationship,SpecimNo,ObsRec,Lit,Explanation,Memo,z
+1,1001,1,F,Cercospora,sojna,,,Cercospora sojna,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-211072,,,,,z
+2,1001,2,F,Cercospora,sojna,,,Cercospora sojna,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-211073,,,,,z
+3,1001,3,F,Cercospora,sojna,,,Cercospora sojna,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-211074,,,,,z
+4,1001,4,F,Gibberella,,,,Gibberella,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-209649,,,,,z
+5,1001,5,F,Hypochnus,centrifugus,,,Hypochnus centrifugus,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-181718,,,,,z
+6,1001,6,F,Macrophoma,mame,,,Macrophoma mame,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-211348,,,,,z
+7,1001,7,F,Macrophoma,mame,,,Macrophoma mame,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-211349,,,,,z
+8,1001,8,F,Macrophoma,mame,,,Macrophoma mame,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-211350,,,,,z
+9,1001,9,F,Mycosphaerella,,,,Mycosphaerella,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-210017,,,,,z
+10,1001,10,F,Ophionectria,sojae,,,Ophionectria sojae,,P,Glycine,max,,subsp. max,Glycine max subsp. max,ダイズ,S,,,TNS-F-210101,,,,,z
