@@ -81,6 +81,7 @@ $lang = $GLOBAL["lang"];
 		.link {
 		  stroke: #999;
 		  stroke-opacity: .6;
+		  stroke-width: 1px;
 		}
 
 		.link-interaction{
@@ -89,6 +90,7 @@ $lang = $GLOBAL["lang"];
 
 		.link-taxonomy{
 			stroke-dasharray: 5 5;
+			stroke-width: 1px;
 		}
 
 		marker {
